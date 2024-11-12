@@ -218,7 +218,7 @@
         "instructors": [],
         "rooms": 5102,
         "section_number": "L1",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "T",
@@ -234,7 +234,7 @@
         "instructors": [],
         "rooms": 5106,
         "section_number": "L2",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "T",
@@ -250,7 +250,7 @@
         "instructors": [],
         "rooms": 6157,
         "section_number": "T1",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "F"
@@ -264,7 +264,7 @@
         "instructors": [],
         "rooms": 6158,
         "section_number": "T2",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "F"
@@ -278,7 +278,7 @@
         "instructors": [],
         "rooms": 6153,
         "section_number": "T3",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -292,7 +292,7 @@
         "instructors": [],
         "rooms": 6103,
         "section_number": "T4",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -306,7 +306,7 @@
         "instructors": [],
         "rooms": 6104,
         "section_number": "T5",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -320,7 +320,7 @@
         "instructors": [],
         "rooms": 6154,
         "section_number": "T6",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -334,7 +334,7 @@
         "instructors": [],
         "rooms": 6157,
         "section_number": "T7",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -348,7 +348,7 @@
         "instructors": [],
         "rooms": 6153,
         "section_number": "T8",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "W"
@@ -362,7 +362,7 @@
         "instructors": [],
         "rooms": 6154,
         "section_number": "T9",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "W"
@@ -376,7 +376,7 @@
         "instructors": [],
         "rooms": 6157,
         "section_number": "T10",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "W"
@@ -390,7 +390,7 @@
         "instructors": [],
         "rooms": 6158,
         "section_number": "T11",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "W"
@@ -404,7 +404,7 @@
         "instructors": [],
         "rooms": 6159,
         "section_number": "T12",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "W"
@@ -418,7 +418,7 @@
         "instructors": [],
         "rooms": 6103,
         "section_number": "T13",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "W"
@@ -443,7 +443,7 @@
         "instructors": [],
         "rooms": 5102,
         "section_number": "L1",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "M",
@@ -460,7 +460,7 @@
         "instructors": [],
         "rooms": 5102,
         "section_number": "L2",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "T",
@@ -476,7 +476,7 @@
         "instructors": [],
         "rooms": 5102,
         "section_number": "L3",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "T",
@@ -492,7 +492,7 @@
         "instructors": [],
         "rooms": 1202,
         "section_number": "T1",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "F"
@@ -506,7 +506,7 @@
         "instructors": [],
         "rooms": 6107,
         "section_number": "T2",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "F"
@@ -520,7 +520,7 @@
         "instructors": [],
         "rooms": 1226,
         "section_number": "T3",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "F"
@@ -534,7 +534,7 @@
         "instructors": [],
         "rooms": 1223,
         "section_number": "T4",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "F"
@@ -548,7 +548,7 @@
         "instructors": [],
         "rooms": 6159,
         "section_number": "T5",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "F"
@@ -562,7 +562,7 @@
         "instructors": [],
         "rooms": 1201,
         "section_number": "T6",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "F"
@@ -576,7 +576,7 @@
         "instructors": [],
         "rooms": 6102,
         "section_number": "T7",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "M"
@@ -590,7 +590,7 @@
         "instructors": [],
         "rooms": 6153,
         "section_number": "T8",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "M"
@@ -604,7 +604,7 @@
         "instructors": [],
         "rooms": 1226,
         "section_number": "T9",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "M"
@@ -618,7 +618,7 @@
         "instructors": [],
         "rooms": 6154,
         "section_number": "T10",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "M"
@@ -632,7 +632,7 @@
         "instructors": [],
         "rooms": 2207,
         "section_number": "T11",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "M"
@@ -646,7 +646,7 @@
         "instructors": [],
         "rooms": 1205,
         "section_number": "T12",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "M"
@@ -660,7 +660,7 @@
         "instructors": [],
         "rooms": 1232,
         "section_number": "T13",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -674,7 +674,7 @@
         "instructors": [],
         "rooms": 6153,
         "section_number": "T14",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -688,7 +688,7 @@
         "instructors": [],
         "rooms": 1203,
         "section_number": "T15",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -702,7 +702,7 @@
         "instructors": [],
         "rooms": 1205,
         "section_number": "T16",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -716,7 +716,7 @@
         "instructors": [],
         "rooms": 6154,
         "section_number": "T17",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -730,7 +730,7 @@
         "instructors": [],
         "rooms": 6157,
         "section_number": "T18",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -744,7 +744,7 @@
         "instructors": [],
         "rooms": 1231,
         "section_number": "T19",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "Th"
@@ -758,7 +758,7 @@
         "instructors": [],
         "rooms": 6157,
         "section_number": "T20",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "Th"
@@ -772,7 +772,7 @@
         "instructors": [],
         "rooms": 1203,
         "section_number": "T21",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "Th"
@@ -786,7 +786,7 @@
         "instructors": [],
         "rooms": 1226,
         "section_number": "T22",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "Th"
@@ -800,7 +800,7 @@
         "instructors": [],
         "rooms": 1227,
         "section_number": "T23",
-        "section_type": "lecture",
+        "section_type": "tutorial",
         "timing": {
           "day": [
             "Th"
@@ -1279,6 +1279,217 @@
           "slot": [
             "8",
             "9"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM F111",
+    "course_title": "GENERAL CHEMISTRY",
+    "credits": {
+      "lecture": 3,
+      "practical": "-",
+      "units": 3
+    },
+    "sections": [
+      {
+        "instructors": [],
+        "rooms": 5105,
+        "section_number": "L1",
+        "section_type": "tutorial",
+        "timing": {
+          "day": [
+            "T",
+            "Th",
+            "F"
+          ],
+          "slot": [
+            "2"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 5105,
+        "section_number": "L2",
+        "section_type": "tutorial",
+        "timing": {
+          "day": [
+            "T",
+            "Th",
+            "F"
+          ],
+          "slot": [
+            "4"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 2204,
+        "section_number": "T1",
+        "section_type": "tutorial",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6107,
+        "section_number": "T2",
+        "section_type": "tutorial",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6109,
+        "section_number": "T3",
+        "section_type": "tutorial",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6160,
+        "section_number": "T4",
+        "section_type": "tutorial",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6161,
+        "section_number": "T5",
+        "section_type": "tutorial",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6153,
+        "section_number": "T6",
+        "section_type": "tutorial",
+        "timing": {
+          "day": [
+            "Th"
+          ],
+          "slot": [
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 2204,
+        "section_number": "T7",
+        "section_type": "tutorial",
+        "timing": {
+          "day": [
+            "Th"
+          ],
+          "slot": [
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6152,
+        "section_number": "T8",
+        "section_type": "tutorial",
+        "timing": {
+          "day": [
+            "Th"
+          ],
+          "slot": [
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6163,
+        "section_number": "T9",
+        "section_type": "tutorial",
+        "timing": {
+          "day": [
+            "Th"
+          ],
+          "slot": [
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6160,
+        "section_number": "T10",
+        "section_type": "tutorial",
+        "timing": {
+          "day": [
+            "W"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6161,
+        "section_number": "T11",
+        "section_type": "tutorial",
+        "timing": {
+          "day": [
+            "W"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6105,
+        "section_number": "T12",
+        "section_type": "tutorial",
+        "timing": {
+          "day": [
+            "W"
+          ],
+          "slot": [
+            "1"
           ]
         }
       }

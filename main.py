@@ -12,7 +12,7 @@ def print_full(x):
 timetable = pd.ExcelFile("./timetable.xlsx")
 final_dict = []
 
-for k in range(1, 6):
+for k in range(1, 7):
     df = timetable.parse(f"S{k}")
 
     # Drop redundant row, clean data
@@ -36,15 +36,21 @@ for k in range(1, 6):
     # Extract data from source Excel
     for i in range(len(df.index)):
         sections.append(df.iloc[i, 6])
-        instructors.append(df.iloc[i, 7]) # wrong, fixit
-
-        sections = [item for item in sections if not isinstance(item, float)]
         rooms.append(df.iloc[i, 8])
-        rooms = [item for item in rooms if not isinstance(item, float)]
-
         timings.append(df.iloc[i, 9])
-        timings = [item for item in timings if not isinstance(item, float)]
+    
+    for i in range(len(df.index)):
+        if isinstance(sections[i], float) is not True:
+            instructors.append([df.iloc[i, 7]])
+        j = 1
+        while i + j < len(sections) and isinstance(sections[i+j], float) is True:
+            instructors[len(instructors) - 1].append(df.iloc[i+1, 7])
+            j += 1
 
+    timings = [item for item in timings if not isinstance(item, float)]
+    rooms = [item for item in rooms if not isinstance(item, float)]
+    sections = [item for item in sections if not isinstance(item, float)]
+    
     # Parse timings into list of dictionaries
     for timing in timings:
         dict_timings = None
@@ -64,9 +70,6 @@ for k in range(1, 6):
             section_type = "tutorial"
 
     sections_compiled = []
-
-    # Figuring out instructors
-    
 
     # Parse sections
     for i in range(len(sections)):
