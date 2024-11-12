@@ -1,0 +1,1287 @@
+[
+  {
+    "course_code": "BIO F110",
+    "course_title": "BIOLOGY LABORATORY",
+    "credits": {
+      "lecture": "-",
+      "practical": 2,
+      "units": 1
+    },
+    "sections": [
+      {
+        "instructors": [],
+        "rooms": 3219,
+        "section_number": "P1",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "F"
+          ],
+          "slot": [
+            "6",
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3219,
+        "section_number": "P2",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "F"
+          ],
+          "slot": [
+            "8",
+            "9"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3219,
+        "section_number": "P3",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "M"
+          ],
+          "slot": [
+            "1",
+            "2"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3219,
+        "section_number": "P4",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "M"
+          ],
+          "slot": [
+            "6",
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3219,
+        "section_number": "P5",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "M"
+          ],
+          "slot": [
+            "8",
+            "9"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3219,
+        "section_number": "P6",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "1",
+            "2"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3219,
+        "section_number": "P7",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "6",
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3219,
+        "section_number": "P8",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "8",
+            "9"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3219,
+        "section_number": "P9",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "Th"
+          ],
+          "slot": [
+            "6",
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3219,
+        "section_number": "P10",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "Th"
+          ],
+          "slot": [
+            "8",
+            "9"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3219,
+        "section_number": "P11",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "W"
+          ],
+          "slot": [
+            "1",
+            "2"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3219,
+        "section_number": "P12",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "W"
+          ],
+          "slot": [
+            "6",
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3219,
+        "section_number": "P13",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "W"
+          ],
+          "slot": [
+            "8",
+            "9"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "course_code": "BIO F111",
+    "course_title": "GENERAL BIOLOGY",
+    "credits": {
+      "lecture": 3,
+      "practical": "-",
+      "units": 3
+    },
+    "sections": [
+      {
+        "instructors": [],
+        "rooms": 5102,
+        "section_number": "L1",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "T",
+            "Th",
+            "F"
+          ],
+          "slot": [
+            "2"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 5106,
+        "section_number": "L2",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "T",
+            "Th",
+            "F"
+          ],
+          "slot": [
+            "4"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6157,
+        "section_number": "T1",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "F"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6158,
+        "section_number": "T2",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "F"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6153,
+        "section_number": "T3",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6103,
+        "section_number": "T4",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6104,
+        "section_number": "T5",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6154,
+        "section_number": "T6",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6157,
+        "section_number": "T7",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6153,
+        "section_number": "T8",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "W"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6154,
+        "section_number": "T9",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "W"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6157,
+        "section_number": "T10",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "W"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6158,
+        "section_number": "T11",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "W"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6159,
+        "section_number": "T12",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "W"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6103,
+        "section_number": "T13",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "W"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "course_code": "BITS F111",
+    "course_title": "THERMODYNAMICS",
+    "credits": {
+      "lecture": 3,
+      "practical": "-",
+      "units": 3
+    },
+    "sections": [
+      {
+        "instructors": [],
+        "rooms": 5102,
+        "section_number": "L1",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "M",
+            "W",
+            "Th"
+          ],
+          "slot": [
+            "3",
+            "9"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 5102,
+        "section_number": "L2",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "T",
+            "Th",
+            "F"
+          ],
+          "slot": [
+            "3"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 5102,
+        "section_number": "L3",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "T",
+            "Th",
+            "F"
+          ],
+          "slot": [
+            "6"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 1202,
+        "section_number": "T1",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "F"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6107,
+        "section_number": "T2",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "F"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 1226,
+        "section_number": "T3",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "F"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 1223,
+        "section_number": "T4",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "F"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6159,
+        "section_number": "T5",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "F"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 1201,
+        "section_number": "T6",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "F"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6102,
+        "section_number": "T7",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "M"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6153,
+        "section_number": "T8",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "M"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 1226,
+        "section_number": "T9",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "M"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6154,
+        "section_number": "T10",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "M"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 2207,
+        "section_number": "T11",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "M"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 1205,
+        "section_number": "T12",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "M"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 1232,
+        "section_number": "T13",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "8"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6153,
+        "section_number": "T14",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "8"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 1203,
+        "section_number": "T15",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "8"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 1205,
+        "section_number": "T16",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "8"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6154,
+        "section_number": "T17",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "8"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6157,
+        "section_number": "T18",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "8"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 1231,
+        "section_number": "T19",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "Th"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6157,
+        "section_number": "T20",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "Th"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 1203,
+        "section_number": "T21",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "Th"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 1226,
+        "section_number": "T22",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "Th"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 1227,
+        "section_number": "T23",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "Th"
+          ],
+          "slot": [
+            "1"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "course_code": "BITS F112",
+    "course_title": "TECHNICAL REPORT WRITING",
+    "credits": {
+      "lecture": 2,
+      "practical": "-",
+      "units": 2
+    },
+    "sections": [
+      {
+        "instructors": [],
+        "rooms": 5102,
+        "section_number": "L1",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "M",
+            "W"
+          ],
+          "slot": [
+            "9"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6152,
+        "section_number": "L2",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "M",
+            "W"
+          ],
+          "slot": [
+            "6"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6151,
+        "section_number": "L3",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "M",
+            "W"
+          ],
+          "slot": [
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6151,
+        "section_number": "L4",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "M",
+            "W"
+          ],
+          "slot": [
+            "8"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6151,
+        "section_number": "L5",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "T",
+            "Th"
+          ],
+          "slot": [
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 6152,
+        "section_number": "L6",
+        "section_type": "lecture",
+        "timing": {
+          "day": [
+            "T",
+            "Th"
+          ],
+          "slot": [
+            "8"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "course_code": "CHEM F110",
+    "course_title": "CHEMISTRY LABORATORY",
+    "credits": {
+      "lecture": "-",
+      "practical": 2,
+      "units": 1
+    },
+    "sections": [
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P1",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "F"
+          ],
+          "slot": [
+            "1",
+            "2"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P2",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "F"
+          ],
+          "slot": [
+            "3",
+            "4"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P3",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "F"
+          ],
+          "slot": [
+            "6",
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P4",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "F"
+          ],
+          "slot": [
+            "8",
+            "9"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P5",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "M"
+          ],
+          "slot": [
+            "1",
+            "2"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P6",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "M"
+          ],
+          "slot": [
+            "3",
+            "4"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P7",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "M"
+          ],
+          "slot": [
+            "6",
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P8",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "M"
+          ],
+          "slot": [
+            "8",
+            "9"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P9",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "S"
+          ],
+          "slot": [
+            "1",
+            "2"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P10",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "S"
+          ],
+          "slot": [
+            "3",
+            "4"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P11",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "S"
+          ],
+          "slot": [
+            "6",
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P12",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "S"
+          ],
+          "slot": [
+            "8",
+            "9"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P13",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "1",
+            "2"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P14",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "3",
+            "4"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P15",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "6",
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P16",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "T"
+          ],
+          "slot": [
+            "8",
+            "9"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P17",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "Th"
+          ],
+          "slot": [
+            "1",
+            "2"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P18",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "Th"
+          ],
+          "slot": [
+            "3",
+            "4"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P19",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "Th"
+          ],
+          "slot": [
+            "6",
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P20",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "Th"
+          ],
+          "slot": [
+            "8",
+            "9"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P21",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "W"
+          ],
+          "slot": [
+            "1",
+            "2"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P22",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "W"
+          ],
+          "slot": [
+            "3",
+            "4"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P23",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "W"
+          ],
+          "slot": [
+            "6",
+            "7"
+          ]
+        }
+      },
+      {
+        "instructors": [],
+        "rooms": 3115,
+        "section_number": "P24",
+        "section_type": "practical",
+        "timing": {
+          "day": [
+            "W"
+          ],
+          "slot": [
+            "8",
+            "9"
+          ]
+        }
+      }
+    ]
+  }
+]

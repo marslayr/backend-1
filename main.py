@@ -2,6 +2,7 @@ import pandas as pd
 import json
 
 
+# For outputting dataframe, useful for testing
 def print_full(x):
     pd.set_option("display.max_rows", len(x))
     print(x)
@@ -9,75 +10,78 @@ def print_full(x):
 
 
 timetable = pd.ExcelFile("./timetable.xlsx")
+final_dict = []
 
-i = input("Please type in the sheet that you want to analyse: ")
+for k in range(1, 6):
+    df = timetable.parse(f"S{k}")
 
-df = timetable.parse(f"S{i}")
+    # Drop redundant row, clean data
+    df.columns = df.iloc[0]
+    df = df.reindex(df.index.drop(0)).reset_index(drop=True)
+    df.columns.name = None
+    df = df.iloc[1:]
 
-df.columns = df.iloc[0]
-df = df.reindex(df.index.drop(0)).reset_index(drop=True)
-df.columns.name = None
+    # Define variables for final dictionary
+    code = df.iloc[0, 1]
+    title = df.iloc[0, 2]
+    credits = [df.iloc[0, 3], df.iloc[0, 4], df.iloc[0, 5]]
 
-df = df.iloc[1:]
+    sections = []
+    section_type = ""
+    rooms = []
+    instructors = []
+    timings = []
+    timings_compiled = []
 
-code = df.iloc[0, 1]
-title = df.iloc[0, 2]
-credits = [df.iloc[0, 3], df.iloc[0, 4], df.iloc[0, 5]]
+    # Extract data from source Excel
+    for i in range(len(df.index)):
+        sections.append(df.iloc[i, 6])
+        instructors.append(df.iloc[i, 7]) # wrong, fixit
 
-sections = []
-section_type = ""
-rooms = []
-instructors = []
-timings = []
-timings_compiled = []
+        sections = [item for item in sections if not isinstance(item, float)]
+        rooms.append(df.iloc[i, 8])
+        rooms = [item for item in rooms if not isinstance(item, float)]
 
-for i in range(len(df.index)):
-    instructors.append(df.iloc[i, 7])
-    instructors = [item for item in instructors]
+        timings.append(df.iloc[i, 9])
+        timings = [item for item in timings if not isinstance(item, float)]
 
-    sections.append(df.iloc[i, 6])
+    # Parse timings into list of dictionaries
+    for timing in timings:
+        dict_timings = None
+        timing_list = timing.split()
+        dict_timings = {
+            "day": [item for item in timing_list if not item.isdigit()],
+            "slot": [item for item in timing_list if item.isdigit()],
+        }
+        timings_compiled.append(dict_timings)
+
+    for section in sections:
+        if "P" in section:
+            section_type = "practical"
+        elif "L" in section:
+            section_type = "lecture"
+        elif "T" in section:
+            section_type = "tutorial"
+
+    sections_compiled = []
+
+    # Figuring out instructors
     
-    sections = [item for item in sections if not isinstance(item, float)]
-    rooms.append(df.iloc[i, 8])
-    rooms = [item for item in rooms if not isinstance(item, float)]
 
+    # Parse sections
+    for i in range(len(sections)):
+        dict = {
+            "section_type": section_type,
+            "section_number": sections[i],
+            "instructors": [],
+            "rooms": rooms[i],
+            "timing": timings_compiled[i],
+        }
 
-    timings.append(df.iloc[i, 9])
-    timings = [item for item in timings if not isinstance(item, float)]
-    
+        sections_compiled.append(dict)
 
-for timing in timings:
-    dict_timings = None
-    timing_list = timing.split()
-    
-    dict_timings = {
-        "day": timing_list[0],
-        "slot": [int(timing_list[1]), int(timing_list[2])]
-    }
-    timings_compiled.append(dict_timings)
-    
-for section in sections:
-    if "P" in section:
-        section_type = "practical"
-    elif "L" in section:
-        section_type = "lecture"
-
-sections_compiled = []
-
-    
-for i in range(len(sections)):
+    # Final dict
     dict = {
-        "section_type": section_type,
-        "section_number": sections[i],
-        "instructors": [],
-        "rooms": rooms[i],
-        "timing": timings_compiled[i],
-    }
-
-    sections_compiled.append(dict)
-
-dict = [
-    {
         "course_code": code,
         "course_title": title,
         "credits": {
@@ -87,8 +91,10 @@ dict = [
         },
         "sections": sections_compiled,
     }
-]
 
-# print(df1.iloc[:, 7])
+    final_dict.append(dict)
 
-print(json.dumps(dict, indent=2))
+
+# Dump dict into json
+with open("data.json", "w") as out_file:
+    json.dump(final_dict, out_file, sort_keys=True, ensure_ascii=False, indent=2)
