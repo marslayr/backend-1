@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 import json
 
 
@@ -11,16 +10,19 @@ def print_full(x):
 
 timetable = pd.ExcelFile("./timetable.xlsx")
 
-df1 = timetable.parse("S1")
-df1.columns = df1.iloc[0]
-df1 = df1.reindex(df1.index.drop(0)).reset_index(drop=True)
-df1.columns.name = None
+i = input("Please type in the sheet that you want to analyse: ")
 
-df1 = df1.iloc[1:]
+df = timetable.parse(f"S{i}")
 
-code = df1.iloc[0, 1]
-title = df1.iloc[0, 2]
-credits = [df1.iloc[0, 3], df1.iloc[0, 4], df1.iloc[0, 5]]
+df.columns = df.iloc[0]
+df = df.reindex(df.index.drop(0)).reset_index(drop=True)
+df.columns.name = None
+
+df = df.iloc[1:]
+
+code = df.iloc[0, 1]
+title = df.iloc[0, 2]
+credits = [df.iloc[0, 3], df.iloc[0, 4], df.iloc[0, 5]]
 
 sections = []
 section_type = ""
@@ -28,23 +30,19 @@ rooms = []
 instructors = []
 timings = []
 timings_compiled = []
-breaks = []
-k = 0
 
-for i in range(len(df1.index)):
-
-
-    instructors.append(df1.iloc[i, 7])
+for i in range(len(df.index)):
+    instructors.append(df.iloc[i, 7])
     instructors = [item for item in instructors]
 
-    sections.append(df1.iloc[i, 6])
+    sections.append(df.iloc[i, 6])
     
     sections = [item for item in sections if not isinstance(item, float)]
-    rooms.append(df1.iloc[i, 8])
+    rooms.append(df.iloc[i, 8])
     rooms = [item for item in rooms if not isinstance(item, float)]
 
 
-    timings.append(df1.iloc[i, 9])
+    timings.append(df.iloc[i, 9])
     timings = [item for item in timings if not isinstance(item, float)]
     
 
@@ -58,7 +56,6 @@ for timing in timings:
     }
     timings_compiled.append(dict_timings)
     
-print(timings_compiled)
 for section in sections:
     if "P" in section:
         section_type = "practical"
@@ -94,4 +91,4 @@ dict = [
 
 # print(df1.iloc[:, 7])
 
-# print(json.dumps(dict, indent=4))
+print(json.dumps(dict, indent=2))
