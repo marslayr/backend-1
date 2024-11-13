@@ -9,10 +9,10 @@
     },
     "sections": [
       {
-        "instructors": [],
-        "rooms": 3219,
+        "section_type": "practical",
         "section_number": "P1",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3219,
         "timing": {
           "day": [
             "F"
@@ -24,10 +24,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3219,
+        "section_type": "practical",
         "section_number": "P2",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3219,
         "timing": {
           "day": [
             "F"
@@ -39,10 +39,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3219,
+        "section_type": "practical",
         "section_number": "P3",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3219,
         "timing": {
           "day": [
             "M"
@@ -54,10 +54,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3219,
+        "section_type": "practical",
         "section_number": "P4",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3219,
         "timing": {
           "day": [
             "M"
@@ -69,10 +69,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3219,
+        "section_type": "practical",
         "section_number": "P5",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3219,
         "timing": {
           "day": [
             "M"
@@ -84,10 +84,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3219,
+        "section_type": "practical",
         "section_number": "P6",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3219,
         "timing": {
           "day": [
             "T"
@@ -99,10 +99,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3219,
+        "section_type": "practical",
         "section_number": "P7",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3219,
         "timing": {
           "day": [
             "T"
@@ -114,10 +114,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3219,
+        "section_type": "practical",
         "section_number": "P8",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3219,
         "timing": {
           "day": [
             "T"
@@ -129,10 +129,10 @@
         }
       },
       {
+        "section_type": "practical",
+        "section_number": "P9",
         "instructors": [],
         "rooms": 3219,
-        "section_number": "P9",
-        "section_type": "practical",
         "timing": {
           "day": [
             "Th"
@@ -144,10 +144,10 @@
         }
       },
       {
+        "section_type": "practical",
+        "section_number": "P10",
         "instructors": [],
         "rooms": 3219,
-        "section_number": "P10",
-        "section_type": "practical",
         "timing": {
           "day": [
             "Th"
@@ -159,10 +159,10 @@
         }
       },
       {
+        "section_type": "practical",
+        "section_number": "P11",
         "instructors": [],
         "rooms": 3219,
-        "section_number": "P11",
-        "section_type": "practical",
         "timing": {
           "day": [
             "W"
@@ -174,10 +174,10 @@
         }
       },
       {
+        "section_type": "practical",
+        "section_number": "P12",
         "instructors": [],
         "rooms": 3219,
-        "section_number": "P12",
-        "section_type": "practical",
         "timing": {
           "day": [
             "W"
@@ -189,10 +189,10 @@
         }
       },
       {
+        "section_type": "practical",
+        "section_number": "P13",
         "instructors": [],
         "rooms": 3219,
-        "section_number": "P13",
-        "section_type": "practical",
         "timing": {
           "day": [
             "W"
@@ -215,10 +215,10 @@
     },
     "sections": [
       {
+        "section_type": "tutorial",
+        "section_number": "L1",
         "instructors": [],
         "rooms": 5102,
-        "section_number": "L1",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T",
@@ -231,10 +231,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "L2",
         "instructors": [],
         "rooms": 5106,
-        "section_number": "L2",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T",
@@ -247,10 +247,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T1",
         "instructors": [],
         "rooms": 6157,
-        "section_number": "T1",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "F"
@@ -261,10 +261,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T2",
         "instructors": [],
         "rooms": 6158,
-        "section_number": "T2",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "F"
@@ -275,10 +275,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T3",
         "instructors": [],
         "rooms": 6153,
-        "section_number": "T3",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -289,10 +289,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T4",
         "instructors": [],
         "rooms": 6103,
-        "section_number": "T4",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -303,10 +303,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T5",
         "instructors": [],
         "rooms": 6104,
-        "section_number": "T5",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -317,10 +317,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T6",
         "instructors": [],
         "rooms": 6154,
-        "section_number": "T6",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -331,10 +331,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T7",
         "instructors": [],
         "rooms": 6157,
-        "section_number": "T7",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -345,10 +345,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T8",
         "instructors": [],
         "rooms": 6153,
-        "section_number": "T8",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "W"
@@ -359,10 +359,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T9",
         "instructors": [],
         "rooms": 6154,
-        "section_number": "T9",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "W"
@@ -373,10 +373,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T10",
         "instructors": [],
         "rooms": 6157,
-        "section_number": "T10",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "W"
@@ -387,10 +387,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T11",
         "instructors": [],
         "rooms": 6158,
-        "section_number": "T11",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "W"
@@ -401,10 +401,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T12",
         "instructors": [],
         "rooms": 6159,
-        "section_number": "T12",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "W"
@@ -415,10 +415,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T13",
         "instructors": [],
         "rooms": 6103,
-        "section_number": "T13",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "W"
@@ -440,10 +440,10 @@
     },
     "sections": [
       {
+        "section_type": "tutorial",
+        "section_number": "L1",
         "instructors": [],
         "rooms": 5102,
-        "section_number": "L1",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "M",
@@ -457,10 +457,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "L2",
         "instructors": [],
         "rooms": 5102,
-        "section_number": "L2",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T",
@@ -473,10 +473,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "L3",
         "instructors": [],
         "rooms": 5102,
-        "section_number": "L3",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T",
@@ -489,10 +489,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T1",
         "instructors": [],
         "rooms": 1202,
-        "section_number": "T1",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "F"
@@ -503,10 +503,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T2",
         "instructors": [],
         "rooms": 6107,
-        "section_number": "T2",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "F"
@@ -517,10 +517,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T3",
         "instructors": [],
         "rooms": 1226,
-        "section_number": "T3",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "F"
@@ -531,10 +531,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T4",
         "instructors": [],
         "rooms": 1223,
-        "section_number": "T4",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "F"
@@ -545,10 +545,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T5",
         "instructors": [],
         "rooms": 6159,
-        "section_number": "T5",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "F"
@@ -559,10 +559,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T6",
         "instructors": [],
         "rooms": 1201,
-        "section_number": "T6",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "F"
@@ -573,10 +573,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T7",
         "instructors": [],
         "rooms": 6102,
-        "section_number": "T7",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "M"
@@ -587,10 +587,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T8",
         "instructors": [],
         "rooms": 6153,
-        "section_number": "T8",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "M"
@@ -601,10 +601,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T9",
         "instructors": [],
         "rooms": 1226,
-        "section_number": "T9",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "M"
@@ -615,10 +615,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T10",
         "instructors": [],
         "rooms": 6154,
-        "section_number": "T10",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "M"
@@ -629,10 +629,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T11",
         "instructors": [],
         "rooms": 2207,
-        "section_number": "T11",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "M"
@@ -643,10 +643,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T12",
         "instructors": [],
         "rooms": 1205,
-        "section_number": "T12",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "M"
@@ -657,10 +657,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T13",
         "instructors": [],
         "rooms": 1232,
-        "section_number": "T13",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -671,10 +671,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T14",
         "instructors": [],
         "rooms": 6153,
-        "section_number": "T14",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -685,10 +685,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T15",
         "instructors": [],
         "rooms": 1203,
-        "section_number": "T15",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -699,10 +699,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T16",
         "instructors": [],
         "rooms": 1205,
-        "section_number": "T16",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -713,10 +713,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T17",
         "instructors": [],
         "rooms": 6154,
-        "section_number": "T17",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -727,10 +727,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T18",
         "instructors": [],
         "rooms": 6157,
-        "section_number": "T18",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -741,10 +741,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T19",
         "instructors": [],
         "rooms": 1231,
-        "section_number": "T19",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "Th"
@@ -755,10 +755,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T20",
         "instructors": [],
         "rooms": 6157,
-        "section_number": "T20",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "Th"
@@ -769,10 +769,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T21",
         "instructors": [],
         "rooms": 1203,
-        "section_number": "T21",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "Th"
@@ -783,10 +783,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T22",
         "instructors": [],
         "rooms": 1226,
-        "section_number": "T22",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "Th"
@@ -797,10 +797,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T23",
         "instructors": [],
         "rooms": 1227,
-        "section_number": "T23",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "Th"
@@ -822,10 +822,10 @@
     },
     "sections": [
       {
+        "section_type": "lecture",
+        "section_number": "L1",
         "instructors": [],
         "rooms": 5102,
-        "section_number": "L1",
-        "section_type": "lecture",
         "timing": {
           "day": [
             "M",
@@ -837,10 +837,10 @@
         }
       },
       {
+        "section_type": "lecture",
+        "section_number": "L2",
         "instructors": [],
         "rooms": 6152,
-        "section_number": "L2",
-        "section_type": "lecture",
         "timing": {
           "day": [
             "M",
@@ -852,10 +852,10 @@
         }
       },
       {
+        "section_type": "lecture",
+        "section_number": "L3",
         "instructors": [],
         "rooms": 6151,
-        "section_number": "L3",
-        "section_type": "lecture",
         "timing": {
           "day": [
             "M",
@@ -867,10 +867,10 @@
         }
       },
       {
+        "section_type": "lecture",
+        "section_number": "L4",
         "instructors": [],
         "rooms": 6151,
-        "section_number": "L4",
-        "section_type": "lecture",
         "timing": {
           "day": [
             "M",
@@ -882,10 +882,10 @@
         }
       },
       {
+        "section_type": "lecture",
+        "section_number": "L5",
         "instructors": [],
         "rooms": 6151,
-        "section_number": "L5",
-        "section_type": "lecture",
         "timing": {
           "day": [
             "T",
@@ -897,10 +897,10 @@
         }
       },
       {
+        "section_type": "lecture",
+        "section_number": "L6",
         "instructors": [],
         "rooms": 6152,
-        "section_number": "L6",
-        "section_type": "lecture",
         "timing": {
           "day": [
             "T",
@@ -923,10 +923,10 @@
     },
     "sections": [
       {
-        "instructors": [],
-        "rooms": 3115,
+        "section_type": "practical",
         "section_number": "P1",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3115,
         "timing": {
           "day": [
             "F"
@@ -938,10 +938,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3115,
+        "section_type": "practical",
         "section_number": "P2",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3115,
         "timing": {
           "day": [
             "F"
@@ -953,10 +953,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3115,
+        "section_type": "practical",
         "section_number": "P3",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3115,
         "timing": {
           "day": [
             "F"
@@ -968,10 +968,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3115,
+        "section_type": "practical",
         "section_number": "P4",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3115,
         "timing": {
           "day": [
             "F"
@@ -983,10 +983,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3115,
+        "section_type": "practical",
         "section_number": "P5",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3115,
         "timing": {
           "day": [
             "M"
@@ -998,10 +998,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3115,
+        "section_type": "practical",
         "section_number": "P6",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3115,
         "timing": {
           "day": [
             "M"
@@ -1013,10 +1013,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3115,
+        "section_type": "practical",
         "section_number": "P7",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3115,
         "timing": {
           "day": [
             "M"
@@ -1028,10 +1028,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3115,
+        "section_type": "practical",
         "section_number": "P8",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3115,
         "timing": {
           "day": [
             "M"
@@ -1043,10 +1043,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3115,
+        "section_type": "practical",
         "section_number": "P9",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3115,
         "timing": {
           "day": [
             "S"
@@ -1058,10 +1058,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3115,
+        "section_type": "practical",
         "section_number": "P10",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3115,
         "timing": {
           "day": [
             "S"
@@ -1073,10 +1073,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3115,
+        "section_type": "practical",
         "section_number": "P11",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3115,
         "timing": {
           "day": [
             "S"
@@ -1088,10 +1088,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3115,
+        "section_type": "practical",
         "section_number": "P12",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3115,
         "timing": {
           "day": [
             "S"
@@ -1103,10 +1103,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3115,
+        "section_type": "practical",
         "section_number": "P13",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3115,
         "timing": {
           "day": [
             "T"
@@ -1118,10 +1118,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3115,
+        "section_type": "practical",
         "section_number": "P14",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3115,
         "timing": {
           "day": [
             "T"
@@ -1133,10 +1133,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3115,
+        "section_type": "practical",
         "section_number": "P15",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3115,
         "timing": {
           "day": [
             "T"
@@ -1148,10 +1148,10 @@
         }
       },
       {
-        "instructors": [],
-        "rooms": 3115,
+        "section_type": "practical",
         "section_number": "P16",
-        "section_type": "practical",
+        "instructors": [],
+        "rooms": 3115,
         "timing": {
           "day": [
             "T"
@@ -1163,10 +1163,10 @@
         }
       },
       {
+        "section_type": "practical",
+        "section_number": "P17",
         "instructors": [],
         "rooms": 3115,
-        "section_number": "P17",
-        "section_type": "practical",
         "timing": {
           "day": [
             "Th"
@@ -1178,10 +1178,10 @@
         }
       },
       {
+        "section_type": "practical",
+        "section_number": "P18",
         "instructors": [],
         "rooms": 3115,
-        "section_number": "P18",
-        "section_type": "practical",
         "timing": {
           "day": [
             "Th"
@@ -1193,10 +1193,10 @@
         }
       },
       {
+        "section_type": "practical",
+        "section_number": "P19",
         "instructors": [],
         "rooms": 3115,
-        "section_number": "P19",
-        "section_type": "practical",
         "timing": {
           "day": [
             "Th"
@@ -1208,10 +1208,10 @@
         }
       },
       {
+        "section_type": "practical",
+        "section_number": "P20",
         "instructors": [],
         "rooms": 3115,
-        "section_number": "P20",
-        "section_type": "practical",
         "timing": {
           "day": [
             "Th"
@@ -1223,10 +1223,10 @@
         }
       },
       {
+        "section_type": "practical",
+        "section_number": "P21",
         "instructors": [],
         "rooms": 3115,
-        "section_number": "P21",
-        "section_type": "practical",
         "timing": {
           "day": [
             "W"
@@ -1238,10 +1238,10 @@
         }
       },
       {
+        "section_type": "practical",
+        "section_number": "P22",
         "instructors": [],
         "rooms": 3115,
-        "section_number": "P22",
-        "section_type": "practical",
         "timing": {
           "day": [
             "W"
@@ -1253,10 +1253,10 @@
         }
       },
       {
+        "section_type": "practical",
+        "section_number": "P23",
         "instructors": [],
         "rooms": 3115,
-        "section_number": "P23",
-        "section_type": "practical",
         "timing": {
           "day": [
             "W"
@@ -1268,10 +1268,10 @@
         }
       },
       {
+        "section_type": "practical",
+        "section_number": "P24",
         "instructors": [],
         "rooms": 3115,
-        "section_number": "P24",
-        "section_type": "practical",
         "timing": {
           "day": [
             "W"
@@ -1294,10 +1294,10 @@
     },
     "sections": [
       {
+        "section_type": "tutorial",
+        "section_number": "L1",
         "instructors": [],
         "rooms": 5105,
-        "section_number": "L1",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T",
@@ -1310,10 +1310,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "L2",
         "instructors": [],
         "rooms": 5105,
-        "section_number": "L2",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T",
@@ -1326,10 +1326,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T1",
         "instructors": [],
         "rooms": 2204,
-        "section_number": "T1",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -1340,10 +1340,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T2",
         "instructors": [],
         "rooms": 6107,
-        "section_number": "T2",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -1354,10 +1354,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T3",
         "instructors": [],
         "rooms": 6109,
-        "section_number": "T3",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -1368,10 +1368,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T4",
         "instructors": [],
         "rooms": 6160,
-        "section_number": "T4",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -1382,10 +1382,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T5",
         "instructors": [],
         "rooms": 6161,
-        "section_number": "T5",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "T"
@@ -1396,10 +1396,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T6",
         "instructors": [],
         "rooms": 6153,
-        "section_number": "T6",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "Th"
@@ -1410,10 +1410,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T7",
         "instructors": [],
         "rooms": 2204,
-        "section_number": "T7",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "Th"
@@ -1424,10 +1424,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T8",
         "instructors": [],
         "rooms": 6152,
-        "section_number": "T8",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "Th"
@@ -1438,10 +1438,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T9",
         "instructors": [],
         "rooms": 6163,
-        "section_number": "T9",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "Th"
@@ -1452,10 +1452,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T10",
         "instructors": [],
         "rooms": 6160,
-        "section_number": "T10",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "W"
@@ -1466,10 +1466,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T11",
         "instructors": [],
         "rooms": 6161,
-        "section_number": "T11",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "W"
@@ -1480,10 +1480,10 @@
         }
       },
       {
+        "section_type": "tutorial",
+        "section_number": "T12",
         "instructors": [],
         "rooms": 6105,
-        "section_number": "T12",
-        "section_type": "tutorial",
         "timing": {
           "day": [
             "W"

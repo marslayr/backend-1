@@ -39,6 +39,10 @@ for k in range(1, 7):
         rooms.append(df.iloc[i, 8])
         timings.append(df.iloc[i, 9])
     
+    # Logic to get instructors
+
+    # 'nan' is a float, we continue until a nan is not found, and when nan is found
+    # we stop appending to that element of the instructors list.
     for i in range(len(df.index)):
         if isinstance(sections[i], float) is not True:
             instructors.append([df.iloc[i, 7]])
@@ -47,6 +51,7 @@ for k in range(1, 7):
             instructors[len(instructors) - 1].append(df.iloc[i+1, 7])
             j += 1
 
+    # remove all nans
     timings = [item for item in timings if not isinstance(item, float)]
     rooms = [item for item in rooms if not isinstance(item, float)]
     sections = [item for item in sections if not isinstance(item, float)]
@@ -71,7 +76,7 @@ for k in range(1, 7):
 
     sections_compiled = []
 
-    # Parse sections
+    # Parse sections into another dict
     for i in range(len(sections)):
         dict = {
             "section_type": section_type,
@@ -83,7 +88,7 @@ for k in range(1, 7):
 
         sections_compiled.append(dict)
 
-    # Final dict
+    # Final dict for each sheet
     dict = {
         "course_code": code,
         "course_title": title,
@@ -95,9 +100,10 @@ for k in range(1, 7):
         "sections": sections_compiled,
     }
 
+    # Final sheet with all sheets
     final_dict.append(dict)
 
 
 # Dump dict into json
 with open("data.json", "w") as out_file:
-    json.dump(final_dict, out_file, sort_keys=True, ensure_ascii=False, indent=2)
+    json.dump(final_dict, out_file, indent=2)
